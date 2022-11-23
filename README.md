@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 🌳 Tech Stack 🌳 </h3>
+<!-- <h3> 🌳 Tech Stack 🌳 </h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   <br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
             
   <br>
-  <br>
+  <br> -->
             
 <!--   <h3> 🌱 Studying 🌱 </h3> -->
   <div>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/>-->
-  </div>
+<!--   </div>
             
   <br>
   <br>
@@ -61,5 +61,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <br>
-
+ -->
 [![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats)
