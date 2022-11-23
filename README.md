@@ -62,4 +62,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <br>
  -->
-[![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats) -->
