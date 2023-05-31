@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Geunhye. I am a frontend developer living in Korea.
 
 <!--
 **hyehye66/hyehye66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
