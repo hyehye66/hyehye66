@@ -3,7 +3,7 @@
 
 <!-- [![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye66)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye66&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bjgh66)](https://solved.ac/bjgh66)
 
