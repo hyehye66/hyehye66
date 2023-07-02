@@ -1,6 +1,12 @@
 ### Hi there 👋 
 ### My name is Geunhye. I am a Frontend Developer👩‍💻 living in Korea.
 
+[![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye66)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bjgh66)](https://solved.ac/bjgh66)
+
 <!--
 **hyehye66/hyehye66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
