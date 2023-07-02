@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name is Geunhye. I am a Frontend Developer👩‍💻 living in Korea.
 
-[![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye66)
 
