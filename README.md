@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello,%20world!&fontSize=60&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello,%20world!&fontSize=60&fontAlignY=40&fontColor=white)
 ### Hi there 👋 
 ### My name is Geunhye. I am a Frontend Developer👩‍💻 living in Korea.
 
