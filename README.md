@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello,%20world!&fontSize=60&fontAlignY=40&fontColor=FFFFFF)
 ### Hi there 👋 
-### My name is Geunhye. I am a Frontend Developer👩‍💻 living in Korea.
+### My name is Geunhye. I am a Web Developer👩‍💻 living in Korea.
 
 <!-- [![Hye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye66)](https://github.com/anuraghazra/github-readme-stats) -->
 
